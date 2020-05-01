@@ -1,0 +1,37 @@
+04/28/2020 07:37:11 AM  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+04/28/2020 07:37:11 AM  * Restarting with stat
+04/28/2020 07:37:12 AM  * Debugger is active!
+04/28/2020 07:37:12 AM  * Debugger PIN: 168-058-829
+04/28/2020 07:37:56 AM 127.0.0.1 - - [28/Apr/2020 07:37:56] "[37mGET / HTTP/1.1[0m" 200 -
+04/28/2020 07:37:56 AM 127.0.0.1 - - [28/Apr/2020 07:37:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+04/30/2020 07:20:42 AM  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+04/30/2020 07:20:42 AM  * Restarting with stat
+04/30/2020 07:20:43 AM  * Debugger is active!
+04/30/2020 07:20:43 AM  * Debugger PIN: 168-058-829
+04/30/2020 07:20:57 AM 127.0.0.1 - - [30/Apr/2020 07:20:57] "[37mGET / HTTP/1.1[0m" 200 -
+04/30/2020 07:20:57 AM 127.0.0.1 - - [30/Apr/2020 07:20:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+04/30/2020 07:24:42 AM 127.0.0.1 - - [30/Apr/2020 07:24:42] "[37mGET / HTTP/1.1[0m" 200 -
+04/30/2020 07:31:01 AM 127.0.0.1 - - [30/Apr/2020 07:31:01] "[37mGET / HTTP/1.1[0m" 200 -
+04/30/2020 07:33:14 AM 127.0.0.1 - - [30/Apr/2020 07:33:14] "[37mGET / HTTP/1.1[0m" 200 -
+04/30/2020 07:33:14 AM 127.0.0.1 - - [30/Apr/2020 07:33:14] "[37mGET /train HTTP/1.1[0m" 200 -
+04/30/2020 07:33:30 AM 127.0.0.1 - - [30/Apr/2020 07:33:30] "[37mGET / HTTP/1.1[0m" 200 -
+04/30/2020 07:33:30 AM 127.0.0.1 - - [30/Apr/2020 07:33:30] "[37mGET /train HTTP/1.1[0m" 200 -
+04/30/2020 07:33:58 AM 127.0.0.1 - - [30/Apr/2020 07:33:58] "[37mGET / HTTP/1.1[0m" 200 -
+04/30/2020 07:33:58 AM 127.0.0.1 - - [30/Apr/2020 07:33:58] "[37mGET /train HTTP/1.1[0m" 200 -
+04/30/2020 07:34:27 AM  * Detected change in '/Users/arthurmello/Library/Mobile Documents/com~apple~CloudDocs/Geral/Data/Outros/IBM AI Enterprise Workflow/project/app.py', reloading
+04/30/2020 07:34:27 AM  * Restarting with stat
+04/30/2020 07:34:29 AM  * Debugger is active!
+04/30/2020 07:34:29 AM  * Debugger PIN: 168-058-829
+04/30/2020 07:34:39 AM  * Detected change in '/Users/arthurmello/Library/Mobile Documents/com~apple~CloudDocs/Geral/Data/Outros/IBM AI Enterprise Workflow/project/app.py', reloading
+04/30/2020 07:34:40 AM  * Restarting with stat
+04/30/2020 07:34:41 AM  * Debugger is active!
+04/30/2020 07:34:41 AM  * Debugger PIN: 168-058-829
+04/30/2020 07:52:02 AM  * Detected change in '/Users/arthurmello/Library/Mobile Documents/com~apple~CloudDocs/Geral/Data/Outros/IBM AI Enterprise Workflow/project/modelling.py', reloading
+04/30/2020 07:52:03 AM  * Restarting with stat
+04/30/2020 07:59:31 AM  * Debugger is active!
+04/30/2020 08:15:04 AM  * Debugger is active!
+04/30/2020 08:16:15 AM  * Debugger is active!
+05/01/2020 06:31:54 PM  * Debugger is active!
+05/01/2020 06:32:04 PM  * Debugger is active!
+05/01/2020 06:32:08 PM  * Debugger is active!
+05/01/2020 06:32:31 PM  * Debugger is active!
